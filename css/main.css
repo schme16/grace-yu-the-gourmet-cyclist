@@ -256,6 +256,8 @@ tr {}
 	margin: 0;
 	padding: 0;
 	height: auto;
+	z-index: 1;
+	position: relative;
 }
 .navbar li:hover > ul {
 	display: block !important;
