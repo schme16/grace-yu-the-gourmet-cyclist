@@ -126,14 +126,14 @@ h3 {
 }
 a {
 	text-decoration: none;
-	font-family: "Oswald Bold", "Oswald Light", "Oswald Regular";
+	font-family: "oswald", "Oswald Light", "Oswald Regular";
 	color: #CBA86A;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
 a:link {
 	color: #DCB463;
-	font-family: "Oswald Bold", "Oswald Light", "Oswald Regular";
+	font-family: "oswald", "Oswald Light", "Oswald Regular";
 	outline: none !important;
 	border: none !important;
 	--webkit-tap-highlight: rbga(0,0,0,0);
@@ -155,7 +155,7 @@ a:link {
 	background-color: #F4F1EC;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	font-family: "Oswald Bold", "Oswald Light", "Oswald Regular";
+	font-family: "oswald", "Oswald Light", "Oswald Regular";
 	color: #3D3D3D;
 	font-variant: normal;
 	font-weight: 400;
@@ -164,11 +164,11 @@ a:link {
 #mainnav a:hover  ,a:active  ,a:focus {
 	color: #737E81;
 	text-decoration: underline;
-	font-family: "Oswald Bold", "Oswald Light", "Oswald Regular";
+	font-family: "oswald", "Oswald Light", "Oswald Regular";
 }
 :visited {
 	color: #E9AB60;
-	font-family: "Oswald Bold", "Oswald Light", "Oswald Regular";
+	font-family: "oswald", "Oswald Light", "Oswald Regular";
 }
 
 
